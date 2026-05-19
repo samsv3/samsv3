@@ -49,7 +49,8 @@ En cada desarrollo priorizo la calidad del software utilizando conceptos avanzad
 
 ### 🚀 Proyectos Destacados
 
-* 📦 **[SmartOrder](https://github.com/samsv3)**: Sistema de gestión de órdenes de alta disponibilidad y consistencia garantizada, diseñado en .NET y React para demostrar patrones de resiliencia y arquitectura distribuida. *(Próximamente disponible de manera pública)*
+* ⚙️ **[OrderFlow Backend](https://github.com/samsv3)**: API REST y capa core del sistema de gestión de órdenes. Desarrollado con **Node.js (NestJS)** y **TypeScript**, estructurado bajo una arquitectura modular y enfocado en el manejo eficiente de flujos de datos transaccionales. *(En desarrollo)*
+* 🎨 **[OrderFlow Frontend](https://github.com/samsv3)**: Interfaz de usuario y cliente SPA para el sistema. Construido con **React** y **TypeScript**, enfocado en la creación de componentes reutilizables y en ofrecer una experiencia de usuario fluida y reactiva. *(En desarrollo)*
 
 ---
 
