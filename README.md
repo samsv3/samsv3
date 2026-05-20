@@ -1,6 +1,6 @@
 # ¡Hola! Soy Samuel Vásquez 👋
 
-### Ingeniero de Software Senior | Fullstack (Node.js & React) | Especialista en Arquitectura & APIs
+### Ingeniero de Software | Fullstack (JavaScript & NET Core) | Arquitectura & APIs
 
 Soy un Ingeniero de Software con **9 años de experiencia** en el desarrollo, estabilidad y evolución de sistemas transaccionales críticos en el sector financiero. Me apasiona diseñar soluciones mantenibles, resolver problemas complejos de lógica de negocio y guiar procesos de modernización tecnológica.
 
